@@ -1,0 +1,42 @@
+.jp-container{
+    width:100%;
+    height:300px;
+    position:relative;
+    background:#fff;
+    border: 1px solid #CCC;
+	float:left;
+	padding-bottom: 10px;
+}
+.jp-container a{
+    padding:15px 20px;
+    display:block;
+    line-height:16px;
+    background-color: #fff;
+    border-bottom:1px solid #CCC;
+    border-top: 0px solid #9ACD32;
+}
+.jp-container a:first-child{
+    border-top:none;
+}
+.jp-container a:last-child{
+    border-bottom:none;
+}
+.jp-container a:hover{
+   background: #F3F9E7;
+   border-bottom-color: #CCC;
+}
+.jp-container a h3{ 
+    font-size:14px;
+    font-weight:bold;
+    padding:2px 0 5px 0;
+	text-transform:uppercase;
+}
+.jp-container a img{
+    float:left;
+    margin:5px 10px 0px 0px;
+    padding:3px;
+    background:#fff;
+    border:1px solid #D8DFEA;
+	 width: 60px;
+	 height: auto;
+}

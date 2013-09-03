@@ -1,0 +1,102 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<url>
+	<loc>http://www.qyudos.co.id/</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/profile/companyprofile</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/profile/experience</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/profile/downloadprofile</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/services/detail/6/2d-3d-seismic-processing</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/services/detail/7/geological-geotechnical-survey</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/services/detail/8/land-geophysical-survey</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/services/detail/9/marine-geophysical-survey</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/services/detail/10/hydrographic-oceanographic-survey</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/services/detail/11/geodetic-navigation-positioning-service</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/instrument/product</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/instrument/services</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/career</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/articles</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/brochures</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/gallery/category/1/science</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/gallery/category/2/general</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/equipment/rent</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/equipment/selling</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.qyudos.co.id/contact</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+</url>
+</urlset>
